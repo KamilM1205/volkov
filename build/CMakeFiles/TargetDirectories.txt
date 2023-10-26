@@ -1,0 +1,5 @@
+C:/Users/Kamil/Projects/volkov/build/CMakeFiles/lab1.dir
+C:/Users/Kamil/Projects/volkov/build/CMakeFiles/lab2.dir
+C:/Users/Kamil/Projects/volkov/build/CMakeFiles/lab3.dir
+C:/Users/Kamil/Projects/volkov/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Kamil/Projects/volkov/build/CMakeFiles/ZERO_CHECK.dir
