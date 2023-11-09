@@ -3,9 +3,11 @@ project("labs")
 
 set(CXX_STANDARD C++17)
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 set(LAB1_SRC lab1/src/main.cpp)
 set(LAB2_SRC lab2/src/main.cpp)
-set(LAB3_SRC lab3/src/main.cpp)
+set(LAB3_SRC lab3/src/main.cpp lab3/src/app.cpp lab3/src/database.cpp lab3/src/repository.cpp)
 
 add_executable(lab1 ${LAB1_SRC})
 target_compile_features(lab1 PRIVATE cxx_std_17)

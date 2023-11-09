@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/ru5tys0ul/projects/cpp/volkov/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/lab1.dir/lab1/src/main.cpp.o -c /home/ru5tys0ul/projects/cpp/volkov/lab1/src/main.cpp",
+  "file": "/home/ru5tys0ul/projects/cpp/volkov/lab1/src/main.cpp",
+  "output": "CMakeFiles/lab1.dir/lab1/src/main.cpp.o"
+},
+{
+  "directory": "/home/ru5tys0ul/projects/cpp/volkov/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/lab2.dir/lab2/src/main.cpp.o -c /home/ru5tys0ul/projects/cpp/volkov/lab2/src/main.cpp",
+  "file": "/home/ru5tys0ul/projects/cpp/volkov/lab2/src/main.cpp",
+  "output": "CMakeFiles/lab2.dir/lab2/src/main.cpp.o"
+},
+{
+  "directory": "/home/ru5tys0ul/projects/cpp/volkov/build",
+  "command": "/usr/bin/c++  -I/home/ru5tys0ul/projects/cpp/volkov/lab3/include  -o CMakeFiles/lab3.dir/lab3/src/main.cpp.o -c /home/ru5tys0ul/projects/cpp/volkov/lab3/src/main.cpp",
+  "file": "/home/ru5tys0ul/projects/cpp/volkov/lab3/src/main.cpp",
+  "output": "CMakeFiles/lab3.dir/lab3/src/main.cpp.o"
+},
+{
+  "directory": "/home/ru5tys0ul/projects/cpp/volkov/build",
+  "command": "/usr/bin/c++  -I/home/ru5tys0ul/projects/cpp/volkov/lab3/include  -o CMakeFiles/lab3.dir/lab3/src/app.cpp.o -c /home/ru5tys0ul/projects/cpp/volkov/lab3/src/app.cpp",
+  "file": "/home/ru5tys0ul/projects/cpp/volkov/lab3/src/app.cpp",
+  "output": "CMakeFiles/lab3.dir/lab3/src/app.cpp.o"
+},
+{
+  "directory": "/home/ru5tys0ul/projects/cpp/volkov/build",
+  "command": "/usr/bin/c++  -I/home/ru5tys0ul/projects/cpp/volkov/lab3/include  -o CMakeFiles/lab3.dir/lab3/src/database.cpp.o -c /home/ru5tys0ul/projects/cpp/volkov/lab3/src/database.cpp",
+  "file": "/home/ru5tys0ul/projects/cpp/volkov/lab3/src/database.cpp",
+  "output": "CMakeFiles/lab3.dir/lab3/src/database.cpp.o"
+},
+{
+  "directory": "/home/ru5tys0ul/projects/cpp/volkov/build",
+  "command": "/usr/bin/c++  -I/home/ru5tys0ul/projects/cpp/volkov/lab3/include  -o CMakeFiles/lab3.dir/lab3/src/repository.cpp.o -c /home/ru5tys0ul/projects/cpp/volkov/lab3/src/repository.cpp",
+  "file": "/home/ru5tys0ul/projects/cpp/volkov/lab3/src/repository.cpp",
+  "output": "CMakeFiles/lab3.dir/lab3/src/repository.cpp.o"
+}
+]
